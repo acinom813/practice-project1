@@ -32,4 +32,4 @@ I am open to questions and suggestions regarding this and all projects. Feel fre
 ## Disclaimer
 This material was accessed via a paid subscription to codingphase.com. The showcased materials are being provided here to demonstrate my continued commitment to improving my skillset. 
 
-![JavaScript Slider Project] (images/project1.png)
+!(images/project1.png)
